@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='FB premutation String'/>
+        <page name='FB Intigers'/>
+        <page name='FB meeting room problem '/>
+        <page name='FB Binary Tree to Doubly Linked List'/>
+        <page name='FB Tree nodes by level'/>
+        <page name='FB  singly linked list with each pair of nodes swapped.'/>
+        <page name='FB   equal 2 tree'/>
+        <page name='FB multy dimention array to array'/>
+        <page name='FB smaller index'/>
+        <page name='FB image collection cache'/>
+        <page name='sustrings_plaindrome'/>
+        <page name='merge_Interval_Array'/>
+        <page name='zalando'/>
+        <page name='repeatFirstCharItem'/>
+        <page name='findMostCommonViewClass'/>
+        <page name='sameHotelWithContinuslyTime'/>
+        <page name='Stack'/>
+        <page name='Queue'/>
+        <page name='BFS_DFS'/>
+        <page name='BinarySearch'/>
+        <page name='Sort_Merge'/>
+        <page name='Sort_Quic'/>
+        <page name='Sort_Bubble'/>
+        <page name='Adjacency_Matrix_List'/>
+        <page name='LinkedList'/>
+        <page name='array 2D'/>
+        <page name='SynchronizedArray'/>
+        <page name='ValueType-refrenceType'/>
+        <page name='DispatchQueue-Thread'/>
+        <page name='HTTP Request Url'/>
+        <page name='protocol'/>
+        <page name='initializer'/>
+        <page name='delivery_Hero'/>
+        <page name='floodFill-color'/>
+        <page name='Extension_Protocol'/>
+        <page name='closure'/>
+        <page name='ExceptionHandelling'/>
+        <page name='NSOperation'/>
+        <page name='isometric value'/>
+        <page name='Balanced Braket'/>
+        <page name='Prime Number'/>
+        <page name='Solid'/>
+        <page name='convert File Image'/>
+        <page name='error handelling try throws'/>
+    </pages>
+</playground>
